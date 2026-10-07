@@ -1,0 +1,7 @@
+homepage: "https://humanreply.app"
+# The setup guide's address replaces this once https://humanreply.app/google-tag-manager/setup-guide exists.
+documentation: "https://humanreply.app"
+versions:
+  # Newest first, one entry per release: the sha of the commit in Human-Reply/gtm-template that carries template.tpl.
+  - sha: e117fffd342c62494152e81cbf639b151a3dd8c7
+    changeNotes: First release.
