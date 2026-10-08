@@ -3,5 +3,7 @@ homepage: "https://humanreply.app"
 documentation: "https://humanreply.app"
 versions:
   # Newest first, one entry per release: the sha of the commit in Human-Reply/gtm-template that carries template.tpl.
+  - sha: 3a6c6db087813c954922654d2e30dbc6ac080a2f
+    changeNotes: Allows the loader's address under /gtm/.
   - sha: e117fffd342c62494152e81cbf639b151a3dd8c7
     changeNotes: First release.
