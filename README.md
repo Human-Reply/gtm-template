@@ -6,7 +6,7 @@ Live chat for your website, answered from Telegram. This tag adds the Human Repl
 
 1. Set up your team at [humanreply.app/start](https://humanreply.app/start). Choose **Other** and type your site's address.
 2. The last step gives you one line to paste. Copy the site key from it: the part after `data-site=`, like `rl_7hK2mQ9xW4`.
-3. In Google Tag Manager, open **Tags › New › Tag Configuration** and pick **Human Reply**.
+3. In Google Tag Manager, open **Tags › New › Tag Configuration** and pick **Human Reply Live Chat**.
 4. Paste the site key.
 5. Under **Triggering**, choose **All Pages**, then save the tag.
 6. **Submit** and publish the container.
